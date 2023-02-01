@@ -29,7 +29,7 @@ define('DB_NAME', 'db_psaa_wp');
 define('DB_USER', 'psaa');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Bismillah99x');
+define('DB_PASSWORD', 'Bismillah1');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
