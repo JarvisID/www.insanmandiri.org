@@ -1,0 +1,23 @@
+#wp-easy-gallery-update-status {display: none; position:fixed; padding:0; margin:0; top:0; left:0; width: 100%; height: 100%; background:rgba(0,0,0,0.5);}
+#loading-image-wrap {position:fixed; padding:0; margin:0; top:30%; left:50%;}
+.btn-wp-easy-gallery-delete, .delete-image {cursor: pointer;}
+.wp-easy-gallery-admin img {border: 0;}
+.eg-table { border-spacing: 0;}
+.eg-cell-spacer-80 {width: 120px;}
+.eg-cell-spacer-90 {width: 90px;}
+.eg-cell-spacer-115 {width: 115px;}
+.eg-cell-spacer-150 {width: 150px;}
+.eg-cell-spacer-136 {width: 136px;}
+.eg-cell-spacer-250 {width: 250px;}
+.eg-cell-spacer-340 {width: 340px;}
+.eg-cell-spacer-700 {width: 800px;}
+.left-float {float: left;}
+.eg-right-margin input {margin-right: 15px;}
+.wpeg-admin-adbox-wrap {background-color: #ffffff; margin-top: 25px; margin-left: 25px;}
+.wpeg-admin-adbox-wrap::after {clear: both; content: " ";}
+.wpeg-admin-adbox { float: left; padding: 3px 20px 7px 20px; width: 30%;}
+.wpeg-admin-adbox-image-wrap {height: 300px;}
+.wpeg-admin-adbox-image-wrap img {width: 300px;}
+.wpeg-admin-adbox p {font-weight: 700;}
+
+
