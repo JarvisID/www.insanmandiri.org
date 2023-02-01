@@ -508,7 +508,7 @@ if ( defined( 'RELOCATE' ) && RELOCATE ) { // Move flag is set.
 		$_SERVER['PHP_SELF'] = str_replace( $_SERVER['PATH_INFO'], '', $_SERVER['PHP_SELF'] );
 	}
 
-	$url = dirname( set_url_scheme( 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['PHP_SELF'] ) );
+	$url = dirname( set_url_scheme( 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['PHP_SELF'] ) );
 
 	if ( get_option( 'siteurl' ) !== $url ) {
 		update_option( 'siteurl', $url );
